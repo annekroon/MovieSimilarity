@@ -1,8 +1,9 @@
 streamlit
-spacy
-numpy
+numpy==1.24.4
 pandas
 scikit-learn
 matplotlib
 seaborn
-en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl
+spacy==3.6.1
+thinc==8.1.12
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.6.0/en_core_web_md-3.6.0-py3-none-any.whl
