@@ -22,7 +22,7 @@ movies = [
     "A baseball manager uses data and algorithms to rebuild his losing team. (Moneyball)",
     "A student builds a tech empire while navigating betrayal and lawsuits. (The Social Network)",
     "A lonely man falls in love with an intelligent operating system. (Her)",
-    "A young man moves to a new city where he is invited for a job and tries to balance her personal and professional life. (The New Beginnings)"
+    "A young man moves to a new city where he is invited for a job and tries to balance his personal and professional life. (The New Beginnings)"
 ]
 
 movie_titles = [m.split(" (")[1].replace(")", "") for m in movies]
