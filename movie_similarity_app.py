@@ -38,7 +38,7 @@ This app finds the most relevant movie based on a description you provide using 
 3. 🧠 **spaCy Embeddings** – Matches by **meaning**, not just words (using semantic similarity).
 
 Try the example below or describe a movie you want to see:
-> *"A boy goes to school for magic, where he is taught to control powerful spells and faces a dark force."*
+> *Boy finds school for magic, where he was taught how to control powerful spells and faces dark force.*
 
 
 """)
