@@ -16,7 +16,7 @@ movies = [
     "An exiled heir returns to take back his homeland from a tyrant uncle. (The Lion King)",
     "A young couple from different worlds fall in love aboard a doomed ship. (Titanic)",
     "A group undertakes a journey to destroy a powerful object and defeat a rising darkness. (The Lord of the Rings)",
-    "A young orphan is invited to a hidden institution where he learns to harness mystical forces. (Harry Potter)",
+    "A young orphan is invited to a hidden institution to learn to harness mystical forces. (Harry Potter)",
     "A man wakes up with no memory and evades secret agents while uncovering his past. (The Bourne Identity)",
     "A linguist must interpret an alien language to prevent global war. (Arrival)",
     "A baseball manager uses data and algorithms to rebuild his losing team. (Moneyball)",
