@@ -12,7 +12,7 @@ nlp = spacy.load("en_core_web_md")
 
 # Updated movie dataset
 movies = [
-    "A man discovers reality is an illusion and joins a resistance to fight digital overlords. (The Matrix)",
+    "A man discovers where reality is an illusion and he joins a resistance to fight a digital overlords. (The Matrix)",
     "An exiled heir returns to take back his homeland from a tyrant uncle. (The Lion King)",
     "A young couple from different worlds fall in love aboard a doomed ship. (Titanic)",
     "A group undertakes a journey to destroy a powerful object and defeat a rising darkness. (The Lord of the Rings)",
